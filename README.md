@@ -1,5 +1,5 @@
 # kishore-ml-e7
-# Nagaraj-S-Machine-Learning--Experiment-7
+-Machine-Learning--Experiment-7
 ## DATE : 13/10/2026
 ### AIM :
 Build a ColumnTransformer pipeline to preprocess numeric and categorical features safely.
